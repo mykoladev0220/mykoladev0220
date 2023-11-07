@@ -9,7 +9,7 @@
 </h1>
 
 <h2 align="center">
-  with Angular, React, Vue for frontend, Node, Django, Ruby on Rails for backend
+  with Angular, React, Vue for frontend, Spring Boot, Node, Django for backend
 </h2>
 
 ## Skills
