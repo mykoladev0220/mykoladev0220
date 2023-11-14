@@ -1,5 +1,5 @@
 <h1 align="left">
-    <em>Demchuk Mykola</em>
+    <em>Mykola Demchuk</em>
 </h1>
 
 <h1 align="center">
